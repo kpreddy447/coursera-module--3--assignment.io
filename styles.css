@@ -11,7 +11,7 @@ h1 {
 
 body {
 	
-	background-color: #FFF0F5;
+	background-color: #FEF5CA;
 
 }
 
@@ -106,8 +106,8 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #C71585;
-  color: #FFFAF0;
+  background-color: #FC5F06;
+  color: #FFFFFF;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -119,7 +119,7 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFAF0;
+  background-color: #FFFFFF;
 }
 
 .nav-brand {
